@@ -1,1 +1,1 @@
-# -Hadoop-high-availability-Cluster
+# Hadoop-high-availability-Cluster
